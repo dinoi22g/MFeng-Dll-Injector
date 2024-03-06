@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34601.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MFeng_Dll_Injector", "MFeng_Dll_Injector\MFeng_Dll_Injector.vbproj", "{64507932-29FA-4C63-85E2-63C9F5F2664B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64507932-29FA-4C63-85E2-63C9F5F2664B}.Debug|x86.ActiveCfg = Debug|x86
+		{64507932-29FA-4C63-85E2-63C9F5F2664B}.Debug|x86.Build.0 = Debug|x86
+		{64507932-29FA-4C63-85E2-63C9F5F2664B}.Release|x86.ActiveCfg = Release|x86
+		{64507932-29FA-4C63-85E2-63C9F5F2664B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3C731FD-BF32-45A6-B092-B35EAF1AA05B}
+	EndGlobalSection
+EndGlobal
